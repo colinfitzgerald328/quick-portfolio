@@ -1,0 +1,19 @@
+repo_name: colinfitzgerald328/quick-portfolio
+report_id: 4f3c4070536218ee98e11b7403a07697
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-19T22:07:37+00:00'
+requested_by: evanca
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
